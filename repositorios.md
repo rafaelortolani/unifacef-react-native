@@ -23,7 +23,7 @@
 * [Caio Santos Freitas](https://github.com/caiosantosf/etanol-ou-gasolina-react-native)
 * [Éder Martins](https://github.com/caniss/calcular-imc)
 * [Loner Patti](https://github.com/lonerpatti/combustivel2)
-
+* [Rafael Ortolani](https://github.com/rafaelortolani/etanolGasolina)
 ## Trabalho Star Wars - APP
 
 * [Fabricio Coutinho de Medeiros](https://github.com/fcamedeiros/react_starwars_app)
